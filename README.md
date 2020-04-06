@@ -3,4 +3,4 @@
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[repository settings](https://github.com/OSSys-m/coursera-test/settings)
+[repository settings](https://github.com/OSSys-m/coursera-test/settings/)
